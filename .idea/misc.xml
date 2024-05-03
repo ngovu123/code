@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Fire_Alarm_CCTV-master/Fire_Alarm_CCTV-master/client/app/src/main/res/drawable/ic_launcher_background.xml" value="0.119" />
+        <entry key="..\:/Fire_Alarm_CCTV-master/Fire_Alarm_CCTV-master/client/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/Fire_Alarm_CCTV-master/Fire_Alarm_CCTV-master/client/app/src/main/res/layout/activity_main_land.xml" value="0.25" />
+        <entry key="..\:/Fire_Alarm_CCTV-master/Fire_Alarm_CCTV-master/client/app/src/main/res/layout/activity_splash.xml" value="0.264" />
+        <entry key="..\:/Fire_Alarm_CCTV-master/Fire_Alarm_CCTV-master/client/app/src/main/res/layout/item_active.xml" value="0.10885416666666667" />
+        <entry key="..\:/Fire_Alarm_CCTV-master/Fire_Alarm_CCTV-master/client/app/src/main/res/layout/item_inactive.xml" value="0.10885416666666667" />
+        <entry key="..\:/Fire_Alarm_CCTV-master/Fire_Alarm_CCTV-master/client/app/src/main/res/layout/popup_window.xml" value="0.10885416666666667" />
+        <entry key="..\:/Fire_Alarm_CCTV-master/Fire_Alarm_CCTV-master/client/app/src/main/res/menu/bottom_menu.xml" value="0.4" />
+        <entry key="..\:/Fire_Alarm_CCTV-master/Fire_Alarm_CCTV-master/client/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.119" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Embedded JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "681358999958",
+    "project_id": "quan-7e429",
+    "storage_bucket": "quan-7e429.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681358999958:android:782daf5c1c0104e2ae1db7",
+        "android_client_info": {
+          "package_name": "cctv.cse.com.cctv_client"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjRsHIf0O4dyol9xKRe9rnPosxaruJbXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
